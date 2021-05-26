@@ -6,7 +6,7 @@
 ### <div align="center">I'm Michael Izaguirre, a full-time full-stack freelance developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [A Journaling App](https://github.com/michaelizaguirre501/traversy-node)  
+- 🔭 I’m currently working on [Cheffie](https://github.com/michaelizaguirre501/new-cheffie) my software to help chefs interact with customers and build a new client base.  
   
 
 - 🌱 I’m currently learning React and Angular  
