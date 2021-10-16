@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Cheffie](https://github.com/michaelizaguirre501/new-cheffie) my software to help chefs interact with customers and build a new client base.  
   
 
-- 🌱 I’m currently learning React   
+- 🌱 I’m currently learning Redux   
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
